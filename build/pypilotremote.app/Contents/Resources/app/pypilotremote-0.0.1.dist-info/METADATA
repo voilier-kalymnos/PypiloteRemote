@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.24
+Name: pypilotremote
+Formal-Name: pypilotremote
+App-ID: com.example.pypilotremote
+Version: 0.0.1
+Home-page: https://example.com/pypilotremote
+Download-URL: https://example.com/pypilotremote
+Author: Kalymnos
+Author-email: voilier.kalymnos@gmail.com
+Summary: Remote for Pypilot
